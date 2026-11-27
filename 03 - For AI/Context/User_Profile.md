@@ -28,7 +28,29 @@
 
 ---
 
-## 📚 Domains of Focus
-- **Humanities & Literature:** Existential philosophy (Dostoevsky, Camus), narrative structures, archeology, ancient systems.
-- **Hard Sciences & Math:** Pure mathematics (Analysis, Abstract Algebra, Logic), theoretical physics, chemistry, electrochemistry.
-- **Computer Science:** Container internals (namespaces, cgroups, PRoot), distributed protocols, adversarial ML, zero-knowledge proofs.
+## 📚 Domains of Focus & Core Interests (from Notion)
+- **Core Interests:**
+  - Learning & Skill Acquisition
+  - Cybersecurity
+  - Machine Learning (ML)
+  - Art & Visual Aesthetics
+  - Archeology & Ancient Systems
+  - Physics
+  - Chemistry
+  - Mathematics
+  - Biotechnology
+
+---
+
+## 📖 Tracked Library & Books Read
+- *Crime and Punishment* (Fyodor Dostoevsky — Status: Completed)
+- *White Nights* (Fyodor Dostoevsky — Status: Completed)
+- *The Stranger* (Albert Camus — Status: Completed)
+- *The Old Man and the Sea* (Ernest Hemingway — Status: Completed)
+- *The Subtle Art of Not Giving a F\*ck* (Mark Manson — Status: Completed)
+- *Divergent* (Veronica Roth — Status: Completed)
+- *2 States: The Story of My Marriage* (Chetan Bhagat — Status: Completed)
+- *The Element of Spellcrafting: 21 Keys to Successful Sorcery* (Jason Miller — Status: Completed)
+- *You’re in Command Now, Mr. Frog* (J. T. Edson — Status: Completed)
+- *Deep Work* (Cal Newport — Status: In Progress)
+- *Turn any book into AI skills you'll actually use* (Vicky Jhao / Video Guide — Status: In Progress)

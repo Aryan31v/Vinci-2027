@@ -11,10 +11,14 @@
             "id": "04de4552ac40549d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03 - For AI/Context/User_Profile.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "User_Profile"
             }
           }
         ]
@@ -173,7 +177,7 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "04de4552ac40549d",
+  "active": "25289930b8c5488d",
   "lastOpenFiles": [
     "TaskNotes/Views/tasks-default.base",
     "TaskNotes/Views/relationships.base",
