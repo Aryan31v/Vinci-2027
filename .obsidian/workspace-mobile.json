@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a0e7d4a14adcffb2",
+        "id": "0edc9fef09aa47fc",
         "type": "tabs",
         "children": [
           {
-            "id": "1ec0cee6bb957a71",
+            "id": "04de4552ac40549d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -163,9 +163,38 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "tasknotes:Open mini calendar view": true,
+      "tasknotes:Open calendar view": false,
+      "tasknotes:Open tasks view": false,
+      "tasknotes:Open agenda view": true,
+      "tasknotes:Open Kanban board": true,
+      "tasknotes:Open Pomodoro timer": true,
+      "tasknotes:Create new task": false
     }
   },
-  "active": "1ec0cee6bb957a71",
-  "lastOpenFiles": []
+  "active": "04de4552ac40549d",
+  "lastOpenFiles": [
+    "TaskNotes/Views/tasks-default.base",
+    "TaskNotes/Views/relationships.base",
+    "TaskNotes/Views/pomodoro-stats.base",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Views/agenda-default.base",
+    "TaskNotes/Views",
+    "TaskNotes",
+    "mdbase.yaml",
+    "mdbase.yaml.tasknotes-stage-1795766848223-27-azvj32mrojf-lk3ndn4w0mc",
+    "_mdbase/settings/dev.tasknotes.md",
+    "_mdbase/contracts/tasknotes.settings/1.1.0.md",
+    "_mdbase/contracts/mdbase.app-settings/2.0.0.md",
+    "_mdbase/contracts/tasknotes.settings/1.0.0.md",
+    "_mdbase/contracts/mdbase.app-settings/1.0.0.md",
+    "_mdbase/contracts/tasknotes.task/0.3.0-rc.6.md",
+    "_mdbase/README.md",
+    "_mdbase/types/task.md",
+    "_mdbase/types/tasknotes-settings.md",
+    "Dump.md"
+  ]
 }
