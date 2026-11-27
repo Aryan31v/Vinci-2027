@@ -22,6 +22,5 @@
 - [ ] Begin Socratic Graph Learning module
 
 ### 💡 Daily Learnings & Insights
-- Moving from 25 brittle scripts to an integrated LLM-native agent makes the vault 10x faster and zero-maintenance.
 
 ---

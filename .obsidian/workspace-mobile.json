@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - For AI/Context/User_Profile.md",
+                "file": "02 - Journal/2026-11-November.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "User_Profile"
+              "title": "2026-11-November"
             }
           }
         ]
@@ -177,8 +177,12 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "25289930b8c5488d",
+  "active": "04de4552ac40549d",
   "lastOpenFiles": [
+    "02 - Journal/Begin Socratic Graph Learning module.md",
+    "03 - For AI/Context/User_Profile.md",
+    "02 - Journal/2026-11-November.md",
+    "Templates/Daily_Journal_Template.md",
     "TaskNotes/Views/tasks-default.base",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/pomodoro-stats.base",
@@ -189,7 +193,6 @@
     "TaskNotes/Views",
     "TaskNotes",
     "mdbase.yaml",
-    "mdbase.yaml.tasknotes-stage-1795766848223-27-azvj32mrojf-lk3ndn4w0mc",
     "_mdbase/settings/dev.tasknotes.md",
     "_mdbase/contracts/tasknotes.settings/1.1.0.md",
     "_mdbase/contracts/mdbase.app-settings/2.0.0.md",
